@@ -1533,53 +1533,6 @@
           "rev_arrow_text_color_on_hover": "#79a206"
         }
       },
-      "1580619889235": {
-        "type": "product-with-tab",
-        "blocks": {
-          "1592896528811": {
-            "type": "section_padding",
-            "settings": {
-              "section_padding_top": 95,
-              "section_padding_bottom": 60,
-              "section_padding_top_md": 55,
-              "section_padding_bottom_md": 20,
-              "section_padding_top_xs": 55,
-              "section_padding_bottom_xs": 20
-            }
-          },
-          "bf766aef-96c9-4877-9bdb-ee9dfbcf0a25": {
-            "type": "product_tab_carousel",
-            "settings": {
-              "carousel_product_collection_handle": "personal-hygeine",
-              "product_limit_handle": 8
-            }
-          }
-        },
-        "block_order": [
-          "1592896528811",
-          "bf766aef-96c9-4877-9bdb-ee9dfbcf0a25"
-        ],
-        "settings": {
-          "container_width": "container",
-          "section_title_enable": true,
-          "section_title": "Our Products",
-          "section_title_paragraph": "",
-          "section_title_color": "#222222",
-          "section_desc_color": "#222222",
-          "section_border_color": "#222222",
-          "section_title_padding_bottom": 50,
-          "section_title_margin_bottom": 20,
-          "slider_arrow_enable": false,
-          "rev_arrow_bg_color": "rgba(0,0,0,0)",
-          "rev_arrow_text_color": "#222222",
-          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
-          "rev_arrow_text_color_on_hover": "#79a206",
-          "featured_product_column": 2,
-          "product_column_large": 4,
-          "product_column_desktop": 4,
-          "product_column_tablet": 2
-        }
-      },
       "1582517483677": {
         "type": "latest-blog",
         "blocks": {
@@ -1771,7 +1724,7 @@
           "section_desc_color": "#222222",
           "section_border_color": "#222222",
           "section_title_padding_bottom": 50,
-          "section_title_margin_bottom": 20,
+          "section_title_margin_bottom": 50,
           "slider_arrow_enable": false,
           "rev_arrow_bg_color": "rgba(0,0,0,0)",
           "rev_arrow_text_color": "#222222",
@@ -2181,20 +2134,45 @@
           "btntext": "Shop Now",
           "btntxturl": "shopify:\/\/products\/product-title-here-3"
         }
+      },
+      "1626083016e8e46fa2": {
+        "type": "carousel-product",
+        "settings": {
+          "container_width": "container",
+          "section_title_enable": true,
+          "section_title": "Section Title",
+          "section_title_paragraph": "",
+          "button__text": "More Product",
+          "button__url": "",
+          "section_title_color": "#222",
+          "section_desc_color": "#222",
+          "section_border_color": "#222",
+          "section_title_padding_bottom": 30,
+          "section_title_margin_bottom": 20,
+          "slider_arrow_enable": false,
+          "rev_arrow_bg_color": "rgba(0,0,0,0)",
+          "rev_arrow_text_color": "#222",
+          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
+          "rev_arrow_text_color_on_hover": "#79a206",
+          "featured_product_handle": "",
+          "featured_product_limit_handle": "12",
+          "featured_product_column": 2,
+          "product_column": 4
+        }
       }
     },
     "content_for_index": [
       "1592372248959",
-      "1580619889235",
-      "1593271154076",
       "1589639205941",
+      "1593271154076",
       "1578718210078",
       "1582517483677",
       "1589900497498",
       "1592986270928",
       "1593234873932",
       "1589467571527",
-      "1589641327197"
+      "1589641327197",
+      "1626083016e8e46fa2"
     ]
   },
   "presets": {
