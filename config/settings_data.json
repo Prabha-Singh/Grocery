@@ -804,56 +804,6 @@
           "more_title": "More"
         }
       },
-      "1539775987830": {
-        "type": "product-banner",
-        "blocks": {
-          "1539776167451": {
-            "type": "banner",
-            "settings": {
-              "banner_img_url": "#",
-              "banner_column": 6,
-              "banner_column_md": 6,
-              "banner_content_enable": true,
-              "sub_title": "Green Vegetable",
-              "main_title": "100% Organic",
-              "sub_title_2": "Healthy Nutrition",
-              "shopnow_btn_text": "Buy Now"
-            }
-          },
-          "1539776011290": {
-            "type": "banner",
-            "settings": {
-              "banner_img_url": "#",
-              "banner_column": 6,
-              "banner_column_md": 6,
-              "banner_content_enable": true,
-              "sub_title": "Fresh herbs",
-              "main_title": "Spinach",
-              "sub_title_2": "Healthy Food",
-              "shopnow_btn_text": "Buy Now"
-            }
-          },
-          "1593266525573": {
-            "type": "section_padding",
-            "settings": {
-              "section_padding_top": 30,
-              "section_padding_bottom": 90,
-              "section_padding_top_md": 15,
-              "section_padding_bottom_md": 25,
-              "section_padding_top_xs": 15,
-              "section_padding_bottom_xs": 25
-            }
-          }
-        },
-        "block_order": [
-          "1539776167451",
-          "1539776011290",
-          "1593266525573"
-        ],
-        "settings": {
-          "banner_fluid": true
-        }
-      },
       "contact-template": {
         "type": "contact-template",
         "settings": {
@@ -1586,27 +1536,6 @@
       "1580619889235": {
         "type": "product-with-tab",
         "blocks": {
-          "1580619959120": {
-            "type": "product_tab_carousel",
-            "settings": {
-              "carousel_product_collection_handle": "fruits",
-              "product_limit_handle": 4
-            }
-          },
-          "1580619925066": {
-            "type": "product_tab_carousel",
-            "settings": {
-              "carousel_product_collection_handle": "milk",
-              "product_limit_handle": 4
-            }
-          },
-          "1580619946753": {
-            "type": "product_tab_carousel",
-            "settings": {
-              "carousel_product_collection_handle": "fish",
-              "product_limit_handle": 4
-            }
-          },
           "1592896528811": {
             "type": "section_padding",
             "settings": {
@@ -1617,18 +1546,23 @@
               "section_padding_top_xs": 55,
               "section_padding_bottom_xs": 20
             }
+          },
+          "bf766aef-96c9-4877-9bdb-ee9dfbcf0a25": {
+            "type": "product_tab_carousel",
+            "settings": {
+              "carousel_product_collection_handle": "personal-hygeine",
+              "product_limit_handle": 8
+            }
           }
         },
         "block_order": [
-          "1580619959120",
-          "1580619925066",
-          "1580619946753",
-          "1592896528811"
+          "1592896528811",
+          "bf766aef-96c9-4877-9bdb-ee9dfbcf0a25"
         ],
         "settings": {
           "container_width": "container",
           "section_title_enable": true,
-          "section_title": "Trending Products",
+          "section_title": "Our Products",
           "section_title_paragraph": "",
           "section_title_color": "#222222",
           "section_desc_color": "#222222",
@@ -2247,101 +2181,10 @@
           "btntext": "Shop Now",
           "btntxturl": "shopify:\/\/products\/product-title-here-3"
         }
-      },
-      "1594708645755": {
-        "type": "featured-cat",
-        "blocks": {
-          "1594708645755-0": {
-            "type": "single_ctg",
-            "settings": {
-              "collection_handle_1": "pure-egg-collections"
-            }
-          },
-          "1594708645755-1": {
-            "type": "single_ctg",
-            "settings": {
-              "collection_handle_1": "vegetable-collection"
-            }
-          },
-          "1594708645755-2": {
-            "type": "single_ctg",
-            "settings": {
-              "collection_handle_1": "milk-collection"
-            }
-          },
-          "1594708645755-3": {
-            "type": "single_ctg",
-            "settings": {
-              "collection_handle_1": "vegetable-collection"
-            }
-          },
-          "1594708645755-4": {
-            "type": "single_ctg",
-            "settings": {
-              "collection_handle_1": "best-beef-collection"
-            }
-          },
-          "1594708645755-5": {
-            "type": "single_ctg",
-            "settings": {
-              "collection_handle_1": "vegetable-collection"
-            }
-          },
-          "1594708645755-6": {
-            "type": "single_ctg",
-            "settings": {
-              "collection_handle_1": "best-beef-collection"
-            }
-          },
-          "1594708645755-7": {
-            "type": "single_ctg",
-            "settings": {
-              "collection_handle_1": "milk-collection"
-            }
-          },
-          "1594708748036": {
-            "type": "single_ctg",
-            "settings": {
-              "collection_handle_1": "pure-egg-collections"
-            }
-          },
-          "1594708751844": {
-            "type": "single_ctg",
-            "settings": {
-              "collection_handle_1": "best-beef-collection"
-            }
-          }
-        },
-        "block_order": [
-          "1594708645755-0",
-          "1594708645755-1",
-          "1594708645755-2",
-          "1594708645755-3",
-          "1594708645755-4",
-          "1594708645755-5",
-          "1594708645755-6",
-          "1594708645755-7",
-          "1594708748036",
-          "1594708751844"
-        ],
-        "settings": {
-          "banner_fluid": false,
-          "section_title_enable": true,
-          "section_title": "Top categories",
-          "section_title_paragraph": "",
-          "button__text": "More categories",
-          "button__url": "shopify:\/\/collections\/all",
-          "section_title_color": "#323232",
-          "section_desc_color": "#323232",
-          "section_title_margin_bottom": 25,
-          "section_title_padding_bottom": 50
-        }
       }
     },
     "content_for_index": [
       "1592372248959",
-      "1539775987830",
-      "1594708645755",
       "1580619889235",
       "1593271154076",
       "1589639205941",
