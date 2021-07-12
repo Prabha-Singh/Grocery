@@ -2741,6 +2741,11 @@ a.product-single__thumbnail.active {
     display: none !important;
 }
 
+@media only screen and (min-width: 1200px) and (max-width: 1600px)
+.slider_s_two .single_slider {
+    height: 475px !important;
+    margin-bottom: 28px !important;
+}
 
 
 
