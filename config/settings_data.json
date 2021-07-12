@@ -1455,48 +1455,6 @@
           "sec_currency_enable": true
         }
       },
-      "1582517483677": {
-        "type": "latest-blog",
-        "blocks": {
-          "1592897964753": {
-            "type": "section_padding",
-            "settings": {
-              "section_padding_top": 95,
-              "section_padding_bottom": 90,
-              "section_padding_top_md": 55,
-              "section_padding_bottom_md": 55,
-              "section_padding_top_xs": 55,
-              "section_padding_bottom_xs": 55
-            }
-          }
-        },
-        "block_order": [
-          "1592897964753"
-        ],
-        "settings": {
-          "container_width": "container",
-          "section_title_enable": true,
-          "section_title": "Our Latest News",
-          "section_title_paragraph": "",
-          "button__text": "More Blogs",
-          "button__url": "",
-          "section_title_color": "#323232",
-          "section_desc_color": "#323232",
-          "section_title_margin_bottom": 25,
-          "section_title_padding_bottom": 30,
-          "blog_handle": "news",
-          "blog_limit_handle": 6,
-          "blog_by": "By",
-          "blog_dvidr": "\/",
-          "blog_redmor": "Continue Reading",
-          "blog_column": 3,
-          "slider_arrow_enable": false,
-          "rev_arrow_bg_color": "rgba(0,0,0,0)",
-          "rev_arrow_text_color": "#222222",
-          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
-          "rev_arrow_text_color_on_hover": "#79a206"
-        }
-      },
       "faq-template": {
         "type": "faq-template",
         "blocks": {
@@ -1556,52 +1514,6 @@
         "settings": {
           "copy_ritht_text": "<p>Copyright © <a href=\"https:\/\/hasthemes.com\/\" title=\"https:\/\/bamboorian.com\/\">Bamboorian<\/a> All Right Reserved.<\/p>",
           "payment_footer_logo_url": ""
-        }
-      },
-      "1589467571527": {
-        "type": "service-section",
-        "blocks": {
-          "1589467571527-0": {
-            "type": "support_area",
-            "settings": {
-              "feature_icon_type": "img_icon",
-              "icon_name": "ti-mobile",
-              "support_titel": "Free Delivery",
-              "support_content": "Free shipping around the world for all <br> orders over $120",
-              "support_column_lg": 4,
-              "support_column_md": 6
-            }
-          },
-          "1589467571527-1": {
-            "type": "support_area",
-            "settings": {
-              "feature_icon_type": "img_icon",
-              "icon_name": "ti-mobile",
-              "support_titel": "Safe Payment",
-              "support_content": "With our payment gateway, don’t worry <br>\nabout your information",
-              "support_column_lg": 4,
-              "support_column_md": 6
-            }
-          },
-          "1589467571527-2": {
-            "type": "support_area",
-            "settings": {
-              "feature_icon_type": "img_icon",
-              "icon_name": "ti-mobile",
-              "support_titel": "Friendly Services",
-              "support_content": "You have 30-day return guarantee for <br>\nevery single order",
-              "support_column_lg": 4,
-              "support_column_md": 6
-            }
-          }
-        },
-        "block_order": [
-          "1589467571527-0",
-          "1589467571527-1",
-          "1589467571527-2"
-        ],
-        "settings": {
-          "container_width": "container"
         }
       },
       "1589639205941": {
@@ -1798,54 +1710,11 @@
           "rev_paginate_bg_color": "#ffffff",
           "rev_paginate_bg_color_on_active": "#c7b270"
         }
-      },
-      "1593234873932": {
-        "type": "about-section-2",
-        "settings": {
-          "about_us_enable_area": true,
-          "full_width": false,
-          "about_img_hide": true,
-          "about_title_sub": "Welcome to Lukani store",
-          "about_title": "Lukani History",
-          "about_content": "Adipiscing lacus ut elementum, nec duis, tempor litora turpis dapibus. Imperdiet cursus odio tortor in elementum. Egestas nunc eleifend feugiat lectus laoreet, vel nunc taciti integer cras. Hac pede dis, praesent nibh ac dui mauris sit. Pellentesque mi, facilisi mauris, elit sociis leo sodales accumsan. Iaculis ac fringilla torquent lorem consectetuer, sociosqu phasellus risus urna aliquam, ornare.\n\nElementum, nec duis, tempor litora turpis dapibus. Imperdiet cursus odio tortor in elementum. Egestas nunc eleifend feugiat lectus laoreet, vel nunc taciti integer cras. Hac pede dis, praesent nibh ac dui mauris sit. Pellentesque mi, facilisi mauris",
-          "about_sign_hide": true,
-          "author_name": "john doe",
-          "author_deg": "CEO Lukani"
-        }
-      },
-      "1626083016e8e46fa2": {
-        "type": "carousel-product",
-        "settings": {
-          "container_width": "container",
-          "section_title_enable": true,
-          "section_title": "Section Title",
-          "section_title_paragraph": "",
-          "button__text": "More Product",
-          "button__url": "",
-          "section_title_color": "#222222",
-          "section_desc_color": "#222222",
-          "section_border_color": "#222222",
-          "section_title_padding_bottom": 30,
-          "section_title_margin_bottom": 20,
-          "slider_arrow_enable": false,
-          "rev_arrow_bg_color": "rgba(0,0,0,0)",
-          "rev_arrow_text_color": "#222222",
-          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
-          "rev_arrow_text_color_on_hover": "#79a206",
-          "featured_product_handle": "",
-          "featured_product_limit_handle": "12",
-          "featured_product_column": 2,
-          "product_column": 4
-        }
       }
     },
     "content_for_index": [
       "1592372248959",
-      "1589639205941",
-      "1582517483677",
-      "1593234873932",
-      "1589467571527",
-      "1626083016e8e46fa2"
+      "1589639205941"
     ]
   },
   "presets": {
