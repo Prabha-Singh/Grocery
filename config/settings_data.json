@@ -1749,50 +1749,6 @@
           "payment_footer_logo_url": ""
         }
       },
-      "1589124124445": {
-        "type": "home-slider",
-        "disabled": true,
-        "blocks": {
-          "1589124124445-0": {
-            "type": "slide",
-            "settings": {
-              "slider_bg_image": "shopify:\/\/shop_images\/banner_image_1_720400c6-820b-4d20-808d-eb60ad5ff64d.jpg",
-              "justify_content": "start",
-              "content_align": "left",
-              "slider_titel1": "AMAZING <br>  FROM Lukani",
-              "slider_titel2": "cactus <br> <span>decoration<\/span>",
-              "slider_content": "Discount 20% Off For Lukani Members",
-              "slider_button": "Discover Now",
-              "slider_bturl": "shopify:\/\/products\/product-title-here-3",
-              "title_color": "#323232",
-              "title_color2": "#323232",
-              "content_color": "#323232",
-              "slide_caption_btn_bg_color": "#222222",
-              "slide_caption_btn_color": "#ffffff",
-              "slide_caption_btn_bg_hover_color": "#79a206",
-              "slide_caption_btn_hover_color": "#ffffff",
-              "title_1_font_size": 16,
-              "fontwight_normal_t1": false,
-              "title_2_font_size": 63,
-              "fontwight_normal_t2": false,
-              "title_2_font_line_height": 63,
-              "title_3_font_size": 24,
-              "title_3_font_line_height": 24
-            }
-          }
-        },
-        "block_order": [
-          "1589124124445-0"
-        ],
-        "settings": {
-          "slider_arrow_enable": false,
-          "rev_arrow_text_color": "#222222",
-          "rev_arrow_text_color_on_hover": "#79a206",
-          "slider_paginate_enable": false,
-          "rev_paginate_bg_color": "#ffffff",
-          "rev_paginate_bg_color_on_active": "rgba(0,0,0,0)"
-        }
-      },
       "1589467571527": {
         "type": "service-section",
         "disabled": true,
@@ -2093,6 +2049,7 @@
           "1592372248959-0": {
             "type": "slide",
             "settings": {
+              "slider_bg_image": "shopify:\/\/shop_images\/banner_image_1_720400c6-820b-4d20-808d-eb60ad5ff64d.jpg",
               "justify_content": "start",
               "content_align": "left",
               "slider_titel1": "100% Healthy & Affordable",
@@ -2382,7 +2339,6 @@
       }
     },
     "content_for_index": [
-      "1589124124445",
       "1592372248959",
       "1539775987830",
       "1594708645755",
