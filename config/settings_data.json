@@ -1733,26 +1733,50 @@
           "custom_page": ""
         }
       },
-      "1626089021cce714ea": {
-        "type": "custom-html",
+      "1626089198a01b7753": {
+        "type": "service-section",
         "blocks": {
-          "1626089021cce714ea-0": {
-            "type": "section_padding",
+          "1626089198a01b7753-0": {
+            "type": "support_area",
             "settings": {
-              "section_padding_top": 0,
-              "section_padding_bottom": 100,
-              "section_padding_top_xs": 0,
-              "section_padding_bottom_xs": 80
+              "feature_icon_type": "img_icon",
+              "icon_name": "ti-mobile",
+              "support_titel": "Free Delivery",
+              "support_content": "Free shipping around the world for all <br> orders over $120",
+              "support_column_lg": 4,
+              "support_column_md": 6
+            }
+          },
+          "1626089198a01b7753-1": {
+            "type": "support_area",
+            "settings": {
+              "feature_icon_type": "img_icon",
+              "icon_name": "ti-mobile",
+              "support_titel": "Free Delivery",
+              "support_content": "Free shipping around the world for all <br> orders over $120",
+              "support_column_lg": 4,
+              "support_column_md": 6
+            }
+          },
+          "1626089198a01b7753-2": {
+            "type": "support_area",
+            "settings": {
+              "feature_icon_type": "img_icon",
+              "icon_name": "ti-mobile",
+              "support_titel": "Free Delivery",
+              "support_content": "Free shipping around the world for all <br> orders over $120",
+              "support_column_lg": 4,
+              "support_column_md": 6
             }
           }
         },
         "block_order": [
-          "1626089021cce714ea-0"
+          "1626089198a01b7753-0",
+          "1626089198a01b7753-1",
+          "1626089198a01b7753-2"
         ],
         "settings": {
-          "section_title": "Section Title Here",
-          "html_content": "<div class=\"rte\" data-section-id=\"1586586855373\" data-section-type=\"featured-content-section\">\n                <section class=\"service\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    <div class=\"col-md-4 col-xs-4 fadeInUp animated\">\n                    \t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0288\/1290\/2453\/t\/2\/assets\/Group_1496.svg?v=1586597929\">\n                    \t<h3>Cruelty Free<\/h3>\n                    \t<p>While we aim to protect the environment, we also want to protect animals.<\/p>\n                    <\/div>\n                    <div class=\"col-md-4 col-xs-4 fadeInUp animated\">\n                    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0288\/1290\/2453\/t\/2\/assets\/Group_1495.svg\">\n                    \t<h3>Sustainable<\/h3>\n                    \t<p>We’re doing our bit to protect mother earth and you. Which is why all our products are eco-friendly, and chemical-free.<\/p>\n                    \t<\/div>\n                    <div class=\"col-md-4 col-xs-4 fadeInUp animated\">\n                    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0288\/1290\/2453\/t\/2\/assets\/Group_1494.svg\">\n                    \t<h3>All Natural<\/h3>\n                    \t<p>The raw materials we use are completely natural and biodegradable.<\/p>\n                    \t<\/div>\n                <\/div>\n              <\/div>  \n        <\/div>\n    <\/section>\n              <\/div>",
-          "custom_page": ""
+          "container_width": "container"
         }
       }
     },
@@ -1760,7 +1784,7 @@
       "1592372248959",
       "1589639205941",
       "16260858548c47dc62",
-      "1626089021cce714ea"
+      "1626089198a01b7753"
     ]
   },
   "presets": {
