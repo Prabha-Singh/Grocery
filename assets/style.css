@@ -764,7 +764,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   z-index: 99;
   width: 100%;
   top: 0;
-  background: rgba(255, 255, 255, 0.9);
+  background: #ffffff;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.11);
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
