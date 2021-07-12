@@ -125,7 +125,7 @@
     "cart_button_title": "Add to cart",
     "affiliate_cart_button_title": "Buy from amazon",
     "soldout_button_title": "Soldout",
-    "product_cart_type": "ajax_popup_cart",
+    "product_cart_type": "ajax_spin_cart",
     "wait_title": "Wait..",
     "added_title": "Added",
     "unavailable_title": "Uavailable",
@@ -1759,8 +1759,8 @@
     "content_for_index": [
       "1592372248959",
       "1589639205941",
-      "16260858548c47dc62",
-      "16260904070a268995"
+      "16260904070a268995",
+      "16260858548c47dc62"
     ]
   },
   "presets": {
