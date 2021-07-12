@@ -308,6 +308,7 @@
           "1588843533787": {
             "type": "widget_app",
             "settings": {
+              "footer_logo": "shopify:\/\/shop_images\/logo_final_low_res.png",
               "footer_logo_url": "",
               "social_icon1": "facebook",
               "social_icon_url1": "#",
@@ -1078,7 +1079,7 @@
         ],
         "settings": {
           "header_top_enable": true,
-          "welcome_text": "Free Delivery: Take advantage of our time to save event",
+          "welcome_text": "use coupon code \"BEBEYOND\" to avail 20% on any product",
           "top__language_enable": true,
           "sec_currency_enable": true,
           "logo": "shopify:\/\/shop_images\/logo_final_low_res.png",
@@ -1454,85 +1455,6 @@
           "sec_currency_enable": true
         }
       },
-      "1578718210078": {
-        "type": "testmonial",
-        "blocks": {
-          "1578718227087": {
-            "type": "testmonial",
-            "settings": {
-              "tmonial_content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-              "tmonial_content_color": "#222222",
-              "tmonial_author": "Nirob Khan",
-              "tmonial_author_color": "#222222",
-              "tmonial_author_designation": "CEO",
-              "tmonial_author_designation_color": "#222222"
-            }
-          },
-          "1578718255001": {
-            "type": "testmonial",
-            "settings": {
-              "tmonial_content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-              "tmonial_content_color": "#343434",
-              "tmonial_author": "Torvi",
-              "tmonial_author_color": "#343434",
-              "tmonial_author_designation": "COO",
-              "tmonial_author_designation_color": "#343434"
-            }
-          },
-          "1592897650411": {
-            "type": "section_padding",
-            "settings": {
-              "section_padding_top": 95,
-              "section_padding_bottom": 95,
-              "section_padding_top_md": 55,
-              "section_padding_bottom_md": 55,
-              "section_padding_top_xs": 55,
-              "section_padding_bottom_xs": 55
-            }
-          },
-          "1594886878799": {
-            "type": "section_background",
-            "settings": {
-              "section_bg_color": "#1a1a1a"
-            }
-          },
-          "1594886904019": {
-            "type": "section_margin",
-            "settings": {
-              "section_margin_top": 100,
-              "section_margin_bottom": 0,
-              "section_margin_top_md": 60,
-              "section_margin_bottom_md": 0,
-              "section_margin_top_xs": 60,
-              "section_margin_bottom_xs": 0
-            }
-          }
-        },
-        "block_order": [
-          "1578718227087",
-          "1578718255001",
-          "1592897650411",
-          "1594886878799",
-          "1594886904019"
-        ],
-        "settings": {
-          "container_width": "container",
-          "section_title_enable": true,
-          "section_title": "Our Client Say!",
-          "section_title_paragraph": "",
-          "text_align": "center",
-          "section_title_color": "#ffffff",
-          "section_desc_color": "#ffffff",
-          "section_border_color": "#ffffff",
-          "section_title_margin_bottom": 30,
-          "section_title_padding_bottom": 20,
-          "slider_arrow_enable": false,
-          "rev_arrow_bg_color": "#ffffff",
-          "rev_arrow_text_color": "#000000",
-          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
-          "rev_arrow_text_color_on_hover": "#79a206"
-        }
-      },
       "1582517483677": {
         "type": "latest-blog",
         "blocks": {
@@ -1632,13 +1554,12 @@
       "footer-copyright": {
         "type": "footer-copyright",
         "settings": {
-          "copy_ritht_text": "<p>Copyright &copy; <a href=\"https:\/\/hasthemes.com\/\" title=\"https:\/\/hasthemes.com\/\">HasThemes<\/a> All Right Reserved.<\/p>",
+          "copy_ritht_text": "<p>Copyright © <a href=\"https:\/\/hasthemes.com\/\" title=\"https:\/\/bamboorian.com\/\">Bamboorian<\/a> All Right Reserved.<\/p>",
           "payment_footer_logo_url": ""
         }
       },
       "1589467571527": {
         "type": "service-section",
-        "disabled": true,
         "blocks": {
           "1589467571527-0": {
             "type": "support_area",
@@ -1672,24 +1593,12 @@
               "support_column_lg": 4,
               "support_column_md": 6
             }
-          },
-          "1592896171764": {
-            "type": "section_padding",
-            "settings": {
-              "section_padding_top": 100,
-              "section_padding_bottom": 100,
-              "section_padding_top_md": 60,
-              "section_padding_bottom_md": 30,
-              "section_padding_top_xs": 60,
-              "section_padding_bottom_xs": 30
-            }
           }
         },
         "block_order": [
           "1589467571527-0",
           "1589467571527-1",
-          "1589467571527-2",
-          "1592896171764"
+          "1589467571527-2"
         ],
         "settings": {
           "container_width": "container"
@@ -1734,101 +1643,6 @@
           "featured_product_limit_handle": "12",
           "featured_product_column": 1,
           "product_column": 5
-        }
-      },
-      "1589641327197": {
-        "type": "today-deals-section",
-        "disabled": true,
-        "blocks": {
-          "1592897289997": {
-            "type": "section_padding",
-            "settings": {
-              "section_padding_top": 0,
-              "section_padding_bottom": 100,
-              "section_padding_top_md": 0,
-              "section_padding_bottom_md": 60,
-              "section_padding_top_xs": 0,
-              "section_padding_bottom_xs": 60
-            }
-          }
-        },
-        "block_order": [
-          "1592897289997"
-        ],
-        "settings": {
-          "container_width": "fluid",
-          "section_title_enable": true,
-          "section_title": "מבצעים היום",
-          "section_title_paragraph": "",
-          "text_align": "center",
-          "section_title_color": "#222222",
-          "section_desc_color": "#222222",
-          "section_border_color": "#222222",
-          "section_title_padding_bottom": 30,
-          "section_title_margin_bottom": 20,
-          "slider_arrow_enable": false,
-          "rev_arrow_bg_color": "rgba(0,0,0,0)",
-          "rev_arrow_text_color": "#222222",
-          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
-          "rev_arrow_text_color_on_hover": "#79a206",
-          "featured_product_handle": "",
-          "featured_product_limit_handle": "12",
-          "featured_product_column": 1,
-          "product_column": 4
-        }
-      },
-      "1589900497498": {
-        "type": "newsletter-section",
-        "blocks": {
-          "1592898282841": {
-            "type": "section_padding",
-            "settings": {
-              "section_padding_top": 100,
-              "section_padding_bottom": 100,
-              "section_padding_top_md": 60,
-              "section_padding_bottom_md": 60,
-              "section_padding_top_xs": 60,
-              "section_padding_bottom_xs": 60
-            }
-          },
-          "1594894645582": {
-            "type": "section_background",
-            "settings": {
-              "section_bg_color": "#fffafa"
-            }
-          },
-          "1594894710159": {
-            "type": "section_margin",
-            "settings": {
-              "section_margin_top": 5,
-              "section_margin_bottom": 100,
-              "section_margin_top_md": 0,
-              "section_margin_bottom_md": 0,
-              "section_margin_top_xs": 0,
-              "section_margin_bottom_xs": 0
-            }
-          }
-        },
-        "block_order": [
-          "1592898282841",
-          "1594894645582",
-          "1594894710159"
-        ],
-        "settings": {
-          "banner_fluid": true,
-          "section_title_enable": true,
-          "section_title": "Subscribe to Our Newsletter",
-          "section_title_paragraph": "",
-          "text_align": "center",
-          "section_title_color": "#222222",
-          "section_desc_color": "#222222",
-          "section_border_color": "#222222",
-          "section_title_padding_bottom": 30,
-          "section_title_margin_bottom": 20,
-          "newsletter_system": "by_mailchimp",
-          "newsletter_description": "Subscribe to our newsletter to receive news on update.",
-          "newsletter_input_placeholder": "הזן את הדוא\"ל שלך",
-          "newsbtntext": "הירשם כמנוי"
         }
       },
       "about-section": {
@@ -1985,83 +1799,8 @@
           "rev_paginate_bg_color_on_active": "#c7b270"
         }
       },
-      "1592986270928": {
-        "type": "brand_logo",
-        "blocks": {
-          "1592986307529": {
-            "type": "brand_logo",
-            "settings": {
-              "br_logo_url": ""
-            }
-          },
-          "1592986318983": {
-            "type": "brand_logo",
-            "settings": {
-              "br_logo_url": ""
-            }
-          },
-          "1592986329064": {
-            "type": "brand_logo",
-            "settings": {
-              "br_logo_url": ""
-            }
-          },
-          "1592986340071": {
-            "type": "brand_logo",
-            "settings": {
-              "br_logo_url": ""
-            }
-          },
-          "1592986350255": {
-            "type": "brand_logo",
-            "settings": {
-              "br_logo_url": ""
-            }
-          },
-          "1594894085285": {
-            "type": "brand_logo",
-            "settings": {
-              "br_logo_url": ""
-            }
-          },
-          "1594894098390": {
-            "type": "brand_logo",
-            "settings": {
-              "br_logo_url": ""
-            }
-          },
-          "1594894790165": {
-            "type": "section_padding",
-            "settings": {
-              "section_padding_top": 0,
-              "section_padding_bottom": 100,
-              "section_padding_top_md": 60,
-              "section_padding_bottom_md": 60,
-              "section_padding_top_xs": 60,
-              "section_padding_bottom_xs": 60
-            }
-          }
-        },
-        "block_order": [
-          "1592986307529",
-          "1592986318983",
-          "1592986329064",
-          "1592986340071",
-          "1592986350255",
-          "1594894085285",
-          "1594894098390",
-          "1594894790165"
-        ],
-        "settings": {
-          "brand_logo_enable": true,
-          "brand_style": "brand_style_1",
-          "brand_logo_broder_top_color": "#ffffff",
-          "brand_logo_broder_bottom_color": "#dddddd"
-        }
-      },
       "1593234873932": {
         "type": "about-section-2",
-        "disabled": true,
         "settings": {
           "about_us_enable_area": true,
           "full_width": false,
@@ -2103,13 +1842,9 @@
     "content_for_index": [
       "1592372248959",
       "1589639205941",
-      "1578718210078",
       "1582517483677",
-      "1589900497498",
-      "1592986270928",
       "1593234873932",
       "1589467571527",
-      "1589641327197",
       "1626083016e8e46fa2"
     ]
   },
