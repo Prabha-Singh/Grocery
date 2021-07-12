@@ -1949,7 +1949,7 @@
               "content_color": "#ffffff",
               "slide_caption_btn_bg_color": "#ffffff",
               "slide_caption_btn_color": "#000000",
-              "slide_caption_btn_bg_hover_color": "#79a206",
+              "slide_caption_btn_bg_hover_color": "#000000",
               "slide_caption_btn_hover_color": "#ffffff",
               "title_1_font_size": 16,
               "fontwight_normal_t1": false,
