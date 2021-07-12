@@ -1718,7 +1718,7 @@
             "type": "section_padding",
             "settings": {
               "section_padding_top": 0,
-              "section_padding_bottom": 100,
+              "section_padding_bottom": 0,
               "section_padding_top_xs": 0,
               "section_padding_bottom_xs": 80
             }
