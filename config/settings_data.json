@@ -2074,40 +2074,6 @@
           "author_deg": "CEO Lukani"
         }
       },
-      "1593271154076": {
-        "type": "banner-fullwidth",
-        "blocks": {
-          "1593271177312": {
-            "type": "section_background",
-            "settings": {
-              "section_bg_color": "#1a1a1a"
-            }
-          },
-          "1593271981012": {
-            "type": "section_margin",
-            "settings": {
-              "section_margin_top": 10,
-              "section_margin_bottom": 100,
-              "section_margin_top_md": 15,
-              "section_margin_bottom_md": 50,
-              "section_margin_top_xs": 15,
-              "section_margin_bottom_xs": 50
-            }
-          }
-        },
-        "block_order": [
-          "1593271177312",
-          "1593271981012"
-        ],
-        "settings": {
-          "banner_fluid": false,
-          "sub_title": "Special Discount",
-          "title": "For all Grocery <br> products",
-          "content_txt": "Take now 20% off for all grocer product.",
-          "btntext": "Shop Now",
-          "btntxturl": "shopify:\/\/products\/product-title-here-3"
-        }
-      },
       "1626083016e8e46fa2": {
         "type": "carousel-product",
         "settings": {
@@ -2137,7 +2103,6 @@
     "content_for_index": [
       "1592372248959",
       "1589639205941",
-      "1593271154076",
       "1578718210078",
       "1582517483677",
       "1589900497498",
