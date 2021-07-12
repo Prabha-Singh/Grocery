@@ -1960,32 +1960,6 @@
               "title_3_font_line_height": 16
             }
           },
-          "1592372248959-1": {
-            "type": "slide",
-            "settings": {
-              "justify_content": "start",
-              "content_align": "left",
-              "slider_titel1": "100% Healthy & Affordable",
-              "slider_titel2": "Organic <br> fresh fruits",
-              "slider_content": "Small Changes Big Difference",
-              "slider_button": "shop now",
-              "slider_bturl": "shopify:\/\/products\/product-title-here",
-              "title_color": "#323232",
-              "title_color2": "#323232",
-              "content_color": "#323232",
-              "slide_caption_btn_bg_color": "#222222",
-              "slide_caption_btn_color": "#ffffff",
-              "slide_caption_btn_bg_hover_color": "#79a206",
-              "slide_caption_btn_hover_color": "#ffffff",
-              "title_1_font_size": 16,
-              "fontwight_normal_t1": false,
-              "title_2_font_size": 37,
-              "fontwight_normal_t2": true,
-              "title_2_font_line_height": 39,
-              "title_3_font_size": 24,
-              "title_3_font_line_height": 24
-            }
-          },
           "1592372248959-2": {
             "type": "section_padding",
             "settings": {
@@ -2000,7 +1974,6 @@
         },
         "block_order": [
           "1592372248959-0",
-          "1592372248959-1",
           "1592372248959-2"
         ],
         "settings": {
