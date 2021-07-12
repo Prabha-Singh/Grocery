@@ -2053,7 +2053,7 @@
               "justify_content": "start",
               "content_align": "left",
               "slider_titel1": "",
-              "slider_titel2": "Make 2021 the year you didn't use a plastic straw.",
+              "slider_titel2": "Make 2021 the year you<br> didn't use a plastic straw.",
               "slider_content": "Be Bamboorian",
               "slider_button": "shop now",
               "slider_bturl": "shopify:\/\/collections\/all",
@@ -2065,12 +2065,12 @@
               "slide_caption_btn_bg_hover_color": "#79a206",
               "slide_caption_btn_hover_color": "#ffffff",
               "title_1_font_size": 16,
-              "fontwight_normal_t1": false,
+              "fontwight_normal_t1": true,
               "title_2_font_size": 37,
-              "fontwight_normal_t2": true,
-              "title_2_font_line_height": 63,
+              "fontwight_normal_t2": false,
+              "title_2_font_line_height": 37,
               "title_3_font_size": 24,
-              "title_3_font_line_height": 24
+              "title_3_font_line_height": 25
             }
           },
           "1592372248959-1": {
