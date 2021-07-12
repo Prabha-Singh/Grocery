@@ -1730,7 +1730,7 @@
           "rev_arrow_text_color": "#222222",
           "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
           "rev_arrow_text_color_on_hover": "#79a206",
-          "featured_product_handle": "new-products",
+          "featured_product_handle": "",
           "featured_product_limit_handle": "12",
           "featured_product_column": 1,
           "product_column": 5
