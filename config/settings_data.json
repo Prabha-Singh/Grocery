@@ -1723,8 +1723,8 @@
           "section_title_color": "#222222",
           "section_desc_color": "#222222",
           "section_border_color": "#222222",
-          "section_title_padding_bottom": 50,
-          "section_title_margin_bottom": 50,
+          "section_title_padding_bottom": 25,
+          "section_title_margin_bottom": 5,
           "slider_arrow_enable": false,
           "rev_arrow_bg_color": "rgba(0,0,0,0)",
           "rev_arrow_text_color": "#222222",
@@ -1957,7 +1957,7 @@
               "fontwight_normal_t2": true,
               "title_2_font_line_height": 37,
               "title_3_font_size": 24,
-              "title_3_font_line_height": 25
+              "title_3_font_line_height": 16
             }
           },
           "1592372248959-1": {
