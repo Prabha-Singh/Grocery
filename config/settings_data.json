@@ -2067,7 +2067,7 @@
               "title_1_font_size": 16,
               "fontwight_normal_t1": false,
               "title_2_font_size": 42,
-              "fontwight_normal_t2": false,
+              "fontwight_normal_t2": true,
               "title_2_font_line_height": 37,
               "title_3_font_size": 24,
               "title_3_font_line_height": 25
