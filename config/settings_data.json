@@ -1710,11 +1710,60 @@
           "rev_paginate_bg_color": "#ffffff",
           "rev_paginate_bg_color_on_active": "#c7b270"
         }
+      },
+      "1626084607cd18ca23": {
+        "type": "testmonial",
+        "blocks": {
+          "1626084607cd18ca23-0": {
+            "type": "testmonial",
+            "settings": {
+              "tmonial_content": "My first time using a bamboo toothbrush and I must say, I enjoy this set. The esthetic of the brush is very appealing and cute. I personally enjoy the most how weightless they are, I didn't expect that.",
+              "tmonial_content_color": "#222",
+              "tmonial_author": "Avinish Singh",
+              "tmonial_author_color": "#222",
+              "tmonial_author_designation": "",
+              "tmonial_author_designation_color": "#222"
+            }
+          },
+          "1626084607cd18ca23-1": {
+            "type": "testmonial",
+            "settings": {
+              "tmonial_content": "Extra peedling, an effective and excellent formulation of fresh fruit-natural pear and vitamin C. Click to Shop Now or Check something else",
+              "tmonial_content_color": "#222",
+              "tmonial_author": "Author Name",
+              "tmonial_author_color": "#222",
+              "tmonial_author_designation": "CEO",
+              "tmonial_author_designation_color": "#222"
+            }
+          }
+        },
+        "block_order": [
+          "1626084607cd18ca23-0",
+          "1626084607cd18ca23-1"
+        ],
+        "settings": {
+          "container_width": "container",
+          "section_title_enable": true,
+          "section_title": "What Our Customers Says ?",
+          "section_title_paragraph": "",
+          "text_align": "center",
+          "section_title_color": "#323232",
+          "section_desc_color": "#323232",
+          "section_border_color": "#222",
+          "section_title_margin_bottom": 40,
+          "section_title_padding_bottom": 40,
+          "slider_arrow_enable": false,
+          "rev_arrow_bg_color": "rgba(0,0,0,0)",
+          "rev_arrow_text_color": "#222",
+          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
+          "rev_arrow_text_color_on_hover": "#79a206"
+        }
       }
     },
     "content_for_index": [
       "1592372248959",
-      "1589639205941"
+      "1589639205941",
+      "1626084607cd18ca23"
     ]
   },
   "presets": {
