@@ -1711,59 +1711,33 @@
           "rev_paginate_bg_color_on_active": "#c7b270"
         }
       },
-      "1626084607cd18ca23": {
-        "type": "testmonial",
+      "16260858548c47dc62": {
+        "type": "custom-html",
         "blocks": {
-          "1626084607cd18ca23-0": {
-            "type": "testmonial",
+          "16260858548c47dc62-0": {
+            "type": "section_padding",
             "settings": {
-              "tmonial_content": "My first time using a bamboo toothbrush and I must say, I enjoy this set. The esthetic of the brush is very appealing and cute. I personally enjoy the most how weightless they are, I didn't expect that.",
-              "tmonial_content_color": "#222",
-              "tmonial_author": "Avinish Singh",
-              "tmonial_author_color": "#222",
-              "tmonial_author_designation": "",
-              "tmonial_author_designation_color": "#ffffff"
-            }
-          },
-          "1626084607cd18ca23-1": {
-            "type": "testmonial",
-            "settings": {
-              "tmonial_content": "Extra peedling, an effective and excellent formulation of fresh fruit-natural pear and vitamin C. Click to Shop Now or Check something else",
-              "tmonial_content_color": "#222",
-              "tmonial_author": "Author Name",
-              "tmonial_author_color": "#222",
-              "tmonial_author_designation": "CEO",
-              "tmonial_author_designation_color": "#222"
+              "section_padding_top": 0,
+              "section_padding_bottom": 100,
+              "section_padding_top_xs": 0,
+              "section_padding_bottom_xs": 80
             }
           }
         },
         "block_order": [
-          "1626084607cd18ca23-0",
-          "1626084607cd18ca23-1"
+          "16260858548c47dc62-0"
         ],
         "settings": {
-          "container_width": "container",
-          "section_title_enable": true,
-          "section_title": "What Our Customers Says ?",
-          "section_title_paragraph": "",
-          "text_align": "center",
-          "section_title_color": "#323232",
-          "section_desc_color": "#323232",
-          "section_border_color": "#222",
-          "section_title_margin_bottom": 40,
-          "section_title_padding_bottom": 40,
-          "slider_arrow_enable": false,
-          "rev_arrow_bg_color": "rgba(0,0,0,0)",
-          "rev_arrow_text_color": "#222",
-          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
-          "rev_arrow_text_color_on_hover": "#79a206"
+          "section_title": "Section Title Here",
+          "html_content": "<section class=\"testimonials\" style=\"background-image: url('https:\/\/images.unsplash.com\/photo-1580912458702-6fa698fc553e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1350&amp;q=80');\">\n        <div class=\"container\">\n            <div class=\"title\">\n                <h5>Testimonials<\/h5>\n                <h2>What our clients say<\/h2>\n            <\/div>\n            <div class=\"owl-carousel owl-theme testi\">\n              <!-- Single Starts -->\n                                <div class=\"item\">\n                  <div class=\"profile\">\n                      <img src=\"https:\/\/images.unsplash.com\/photo-1521225099409-8e1efc95321d?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;h=153&amp;q=80\" alt=\"\">\n                      <div class=\"information\">\n                          <div class=\"stars\">\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                          <\/div>\n                          <p>Furkan Giray<\/p>\n                          <span>Web Developer<\/span>\n                      <\/div>\n                    <\/div>\n                      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita velit labore suscipit distinctio, officiis deserunt rem blanditiis ducimus. Voluptate quaerat assumenda qui veniam facilis doloribus maiores impedit ducimus cum accusamus.<\/p>\n                      <div class=\"icon\">\n                          <i class=\"fa fa-quote-right\" aria-hidden=\"true\"><\/i>\n                      <\/div>\n                <\/div>\n              <!-- Single Ends -->\n                <div class=\"item\">\n                  <div class=\"profile\">\n                      <img src=\"https:\/\/images.unsplash.com\/photo-1521225099409-8e1efc95321d?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;h=153&amp;q=80\" alt=\"\">\n                      <div class=\"information\">\n                          <div class=\"stars\">\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                          <\/div>\n                          <p>Furkan Giray<\/p>\n                          <span>Web Developer<\/span>\n                      <\/div>\n                    <\/div>\n                      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita velit labore suscipit distinctio, officiis deserunt rem blanditiis ducimus. Voluptate quaerat assumenda qui veniam facilis doloribus maiores impedit ducimus cum accusamus.<\/p>\n                      <div class=\"icon\">\n                          <i class=\"fa fa-quote-right\" aria-hidden=\"true\"><\/i>\n                      <\/div>\n                <\/div>\n                <div class=\"item\">\n                  <div class=\"profile\">\n                      <img src=\"https:\/\/images.unsplash.com\/photo-1521225099409-8e1efc95321d?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;h=153&amp;q=80\" alt=\"\">\n                      <div class=\"information\">\n                          <div class=\"stars\">\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                            <i class=\"fa fa-star\"><\/i>\n                          <\/div>\n                          <p>Furkan Giray<\/p>\n                          <span>Web Developer<\/span>\n                      <\/div>\n                    <\/div>\n                      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Expedita velit labore suscipit distinctio, officiis deserunt rem blanditiis ducimus. Voluptate quaerat assumenda qui veniam facilis doloribus maiores impedit ducimus cum accusamus.<\/p>\n                      <div class=\"icon\">\n                          <i class=\"fa fa-quote-right\" aria-hidden=\"true\"><\/i>\n                      <\/div>\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/section>",
+          "custom_page": ""
         }
       }
     },
     "content_for_index": [
       "1592372248959",
       "1589639205941",
-      "1626084607cd18ca23"
+      "16260858548c47dc62"
     ]
   },
   "presets": {
