@@ -5801,7 +5801,9 @@ a.product-single__thumbnail {
 
 
 
-
+div#shopify-section-footer {
+    display: none !important;
+}
 
 
 
