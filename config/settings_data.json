@@ -1,7 +1,7 @@
 {
   "current": {
     "favicon": "",
-    "currency_enable": true,
+    "currency_enable": false,
     "supported_currencies": "USD, USD - US Dollar | EUR, EUR - Euro | GBP, GBP - British Pound | INR, INR - Indian Rupee | BDT, BDT - Bangladesh Taka | JPY, JPY - Japan Yen | CAD, CAD - Canada Dollar | AUD, AUD - Australian Dollar",
     "ajax_search_enable": true,
     "enable_preloader": true,
@@ -1077,9 +1077,9 @@
         ],
         "settings": {
           "header_top_enable": true,
-          "welcome_text": "use coupon code \"BEBEYOND\" to avail 20% on any product",
-          "top__language_enable": true,
-          "sec_currency_enable": true,
+          "welcome_text": "Use coupon code <b>\"BEBEYOND\"<\/b> to avail 20% on any product",
+          "top__language_enable": false,
+          "sec_currency_enable": false,
           "logo": "shopify:\/\/shop_images\/logo_final_low_res.png",
           "logo_width": 110,
           "enable_search": false,
