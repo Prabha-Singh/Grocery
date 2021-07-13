@@ -3959,7 +3959,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .subscribe_form  {
   border: 1px solid;
-  border-radius: 10px;
+/*   border-radius: 10px; */
   width: 630px;
   margin: 0 auto;
 }
