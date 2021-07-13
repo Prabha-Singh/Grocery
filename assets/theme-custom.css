@@ -5807,7 +5807,9 @@ div#shopify-section-footer {
 }
 
 
-
+nav.site-nav.center-menu {
+    text-align: center;
+}
 
 
 
