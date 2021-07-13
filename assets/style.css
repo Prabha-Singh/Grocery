@@ -3958,14 +3958,14 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .subscribe_form  {
-  position: relative;
-  border-bottom: 1px solid #373737;
-  width: 630px;
+  border: 1px solid;
+  border-radius: 10px;
+  width: 530px;
   margin: 0 auto;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .subscribe_form  {
-    width: 590px;
+    width: 490px;
   }
 }
 @media only screen and (max-width: 767px) {
