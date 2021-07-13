@@ -3,8 +3,9 @@
   <div  class="{%- if section.settings.banner_fluid == true -%}  container-fluid {%-else-%} container {%-endif-%}">
     <div class="row">
       <div class="col-12">
+        <div class="col-6"></div>
+        <div class="col-6">
         <!-- Section Title Start -->
-        xxxx
         {%- if section.settings.section_title_enable -%}
         <div class="section_title {% if section.settings.text_align == "left" %}text-left {% elsif section.settings.text_align == "right" %} text-right {% elsif section.settings.text_align == "center" %} text-center {% endif %}">
           {% if section.settings.section_title != blank %}
@@ -69,6 +70,7 @@
             <div class="mailchimp-error"></div><!-- mailchimp-error end -->
           </div><!-- mailchimp-alerts end -->
           {%- endif -%}
+        </div>
         </div>
       </div>
     </div>
