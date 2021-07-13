@@ -411,7 +411,6 @@
           "1573710522761": {
             "type": "sidebar_banner",
             "settings": {
-              "sidebar_banner_image": "shopify:\/\/shop_images\/small-banner.png",
               "sidebar_banner_image_alt": "",
               "sidebar_banner_image_url": "shopify:\/\/products\/product-title-here-3"
             }
@@ -442,10 +441,9 @@
           "1538821061710"
         ],
         "settings": {
-          "top_banner_enable": true,
+          "top_banner_enable": false,
           "custom_collection_banner": "custom_banner",
-          "banner_img_top": "shopify:\/\/shop_images\/big-banner.png",
-          "banner_top_url": "shopify:\/\/products\/10-this-is-the-large-title-for-testing-large-title-and-there-is-an-image-for-testing",
+          "banner_top_url": "",
           "product_column": "4",
           "products_limit_handle": 9,
           "tab_bar_enable": true,
