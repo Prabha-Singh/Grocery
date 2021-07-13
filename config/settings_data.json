@@ -1752,13 +1752,39 @@
           "html_content": "<style>\n.col-md-4.col-xs-4.fadeInUp.animated{\n  padding-top:10px;\n  float: left; \n  width: 30%;\n  text-align: center;\n  transition: box-shadow .3s;\n  height: 200px;\n  margin: 10px;\n  border-radius:10px;\n  border: 1px solid #ccc;\n  background: #fff;\n  }\n@media screen and (max-width: 767px) {\n    .col-md-4.col-xs-4.fadeInUp.animated{ float: none; width: 100%; text-align: center;}\n}\n\n.rte{\n  background-color:#f6f6f6;\n}\n\n.col-md-4.col-xs-4.fadeInUp.animated:hover{\n  box-shadow: 0 0 11px rgba(33,33,33,.2); \n}<\/style>\n<div class=\"rte\" data-section-id=\"1586586855373\" data-section-type=\"featured-content-section\">\n                <section class=\"service\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    <div class=\"col-md-4 col-xs-4 fadeInUp animated\">\n                    \t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0288\/1290\/2453\/t\/2\/assets\/Group_1496.svg?v=1586597929\">\n                    \t<h3 style=\"\n    margin-top: 10px !important;\">Cruelty Free<\/h3>\n                    \t<p>While we aim to protect the environment.<\/p>\n                    <\/div>\n                    <div class=\"col-md-4 col-xs-4 fadeInUp animated\">\n                    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0288\/1290\/2453\/t\/2\/assets\/Group_1495.svg\">\n                    \t<h3 style=\"\n    margin-top: 10px !important;\">Sustainable<\/h3>\n                    \t<p>We’re doing our bit to protect mother.<\/p>\n                    \t<\/div>\n                    <div class=\"col-md-4 col-xs-4 fadeInUp animated\">\n                    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0288\/1290\/2453\/t\/2\/assets\/Group_1494.svg\">\n                    \t<h3 style=\"\n    margin-top: 10px !important;\">All Natural<\/h3>\n                    \t<p>The raw materials we use are completely.<\/p>\n                    \t<\/div>\n                <\/div>\n              <\/div>  \n        <\/div>\n    <\/section>\n              <\/div>",
           "custom_page": ""
         }
+      },
+      "1626164671452ed1bc": {
+        "type": "powr-popup",
+        "settings": {
+        }
+      },
+      "162616480372c3e558": {
+        "type": "newsletter-section",
+        "settings": {
+          "banner_fluid": true,
+          "section_title_enable": true,
+          "section_title": "<h2>Get <span>20% Off<\/span> Your Next Order<\/h2>",
+          "section_title_paragraph": "",
+          "text_align": "center",
+          "section_title_color": "#222",
+          "section_desc_color": "#222",
+          "section_border_color": "#222",
+          "section_title_padding_bottom": 30,
+          "section_title_margin_bottom": 20,
+          "newsletter_system": "by_mailchimp",
+          "newsletter_description": "Subscribe to our newsletter to receive news on update.",
+          "newsletter_input_placeholder": "Enter you email",
+          "newsbtntext": "Subscribe"
+        }
       }
     },
     "content_for_index": [
       "1592372248959",
       "1589639205941",
       "16260904070a268995",
-      "16260858548c47dc62"
+      "16260858548c47dc62",
+      "1626164671452ed1bc",
+      "162616480372c3e558"
     ]
   },
   "presets": {
