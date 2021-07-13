@@ -1752,13 +1752,36 @@
           "html_content": "<style>\n.col-md-4.col-xs-4.fadeInUp.animated{\n  padding-top:10px;\n  float: left; \n  width: 30%;\n  text-align: center;\n  transition: box-shadow .3s;\n  height: 200px;\n  margin: 10px;\n  border-radius:10px;\n  border: 1px solid #ccc;\n  background: #fff;\n  }\n@media screen and (max-width: 767px) {\n    .col-md-4.col-xs-4.fadeInUp.animated{ float: none; width: 100%; text-align: center;}\n}\n\n.rte{\n  background-color:#f6f6f6;\n}\n\n.col-md-4.col-xs-4.fadeInUp.animated:hover{\n  box-shadow: 0 0 11px rgba(33,33,33,.2); \n}<\/style>\n<div class=\"rte\" data-section-id=\"1586586855373\" data-section-type=\"featured-content-section\">\n                <section class=\"service\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    <div class=\"col-md-4 col-xs-4 fadeInUp animated\">\n                    \t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0288\/1290\/2453\/t\/2\/assets\/Group_1496.svg?v=1586597929\">\n                    \t<h3 style=\"\n    margin-top: 10px !important;\">Cruelty Free<\/h3>\n                    \t<p>While we aim to protect the environment.<\/p>\n                    <\/div>\n                    <div class=\"col-md-4 col-xs-4 fadeInUp animated\">\n                    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0288\/1290\/2453\/t\/2\/assets\/Group_1495.svg\">\n                    \t<h3 style=\"\n    margin-top: 10px !important;\">Sustainable<\/h3>\n                    \t<p>We’re doing our bit to protect mother.<\/p>\n                    \t<\/div>\n                    <div class=\"col-md-4 col-xs-4 fadeInUp animated\">\n                    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0288\/1290\/2453\/t\/2\/assets\/Group_1494.svg\">\n                    \t<h3 style=\"\n    margin-top: 10px !important;\">All Natural<\/h3>\n                    \t<p>The raw materials we use are completely.<\/p>\n                    \t<\/div>\n                <\/div>\n              <\/div>  \n        <\/div>\n    <\/section>\n              <\/div>",
           "custom_page": ""
         }
+      },
+      "16261601500d9de3f1": {
+        "type": "custom-html",
+        "blocks": {
+          "16261601500d9de3f1-0": {
+            "type": "section_padding",
+            "settings": {
+              "section_padding_top": 0,
+              "section_padding_bottom": 100,
+              "section_padding_top_xs": 0,
+              "section_padding_bottom_xs": 80
+            }
+          }
+        },
+        "block_order": [
+          "16261601500d9de3f1-0"
+        ],
+        "settings": {
+          "section_title": "",
+          "html_content": "<section class=\"facilities clearfix fadeInUp animated\">\n        <div class=\"container reveal-bottom-fade\">\n            <div class=\"col-md-12\">\n            <div class=\"recipe col-md-6\">\n            <h2>We inspire green living, and green giving.<\/h2>\n            <p>We've got a lot of gift options that your work associates or loved ones will appreciate. And guess what, we can have them customised.<\/p>\n            <a href=\"\/pages\/contact-us\" class=\"text-link\">Know more<\/a>\n        <\/div>\n        <div class=\"recipe1 col-md-6\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0288\/1290\/2453\/t\/2\/assets\/Mask_Group_116.png?v=1586753622\">\n        <\/div>\n         <\/div>\n         <\/div>\n    <\/section>",
+          "custom_page": ""
+        }
       }
     },
     "content_for_index": [
       "1592372248959",
       "1589639205941",
       "16260904070a268995",
-      "16260858548c47dc62"
+      "16260858548c47dc62",
+      "16261601500d9de3f1"
     ]
   },
   "presets": {
