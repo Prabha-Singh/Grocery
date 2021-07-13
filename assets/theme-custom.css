@@ -2255,6 +2255,7 @@ div#shipping-calculator h3 {
   font-size: 25px;
 }
 div#shipping-calculator {
+  display:none;
   margin-top: 43px;
 }
 .cart-calculation-table th {
