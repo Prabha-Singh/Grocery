@@ -12575,6 +12575,12 @@ button#mc-submit {
 }
 
 @media(max-width:767px){
-  	flex: 0 0 100% !important;
-    max-width: 100% !important;
+  	.col-6.mobile img {
+    	width: 100% !important;
+	}
+  	
+  	.col-6.mobile{
+	  	flex: 0 0 100% !important;
+    	max-width: 100% !important;
+    }
 }
