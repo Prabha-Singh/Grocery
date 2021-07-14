@@ -12570,3 +12570,6 @@ button#mc-submit {
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
 }
+.subscribe_form input {
+    border-radius: 10px !important;
+}
