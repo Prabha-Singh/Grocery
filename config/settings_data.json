@@ -104,8 +104,8 @@
     "dont_show_title_color": "#000",
     "close_icon_color": "#ffffff",
     "breadcrumb_banner_enable": true,
-    "breadcrumb_banner_image": "",
-    "breadcrub_page_title_enable": false,
+    "breadcrumb_banner_image": "shopify:\/\/shop_images\/a-selection-of-candles-and-plants-on-wooden-shelves.jpg",
+    "breadcrub_page_title_enable": true,
     "breadcrumb_align": "center",
     "breadcrumb_banner_bg": "#f3f3f3",
     "breadcrumb_banner_overlay_color": "#000000",
@@ -113,8 +113,8 @@
     "breadcurmb_title_color": "#222222",
     "breadcurmb_page_title_color": "#222222",
     "active_breadcurmb_page_title_color": "#222222",
-    "breadcrumb_padding_top": 65,
-    "breadcrumb_padding_bottom": 65,
+    "breadcrumb_padding_top": 100,
+    "breadcrumb_padding_bottom": 100,
     "breadcrumb_padding_top_xs": 50,
     "breadcrumb_padding_bottom_xs": 50,
     "countdown_timer_enable": true,
@@ -916,42 +916,36 @@
           "1567076038209": {
             "type": "brand_logo",
             "settings": {
-              "br_logo_img": "shopify:\/\/shop_images\/LOGO_09.png",
               "br_logo_url": "#"
             }
           },
           "1567076133983": {
             "type": "brand_logo",
             "settings": {
-              "br_logo_img": "shopify:\/\/shop_images\/LOGO_06.png",
               "br_logo_url": "#"
             }
           },
           "1567076146200": {
             "type": "brand_logo",
             "settings": {
-              "br_logo_img": "shopify:\/\/shop_images\/LOGO_08.png",
               "br_logo_url": "#"
             }
           },
           "1567076154543": {
             "type": "brand_logo",
             "settings": {
-              "br_logo_img": "shopify:\/\/shop_images\/LOGO_07.png",
               "br_logo_url": "#"
             }
           },
           "1567076166217": {
             "type": "brand_logo",
             "settings": {
-              "br_logo_img": "shopify:\/\/shop_images\/LOGO_02.png",
               "br_logo_url": "#"
             }
           },
           "1567076255682": {
             "type": "brand_logo",
             "settings": {
-              "br_logo_img": "shopify:\/\/shop_images\/LOGO_03.png",
               "br_logo_url": ""
             }
           }
@@ -1576,7 +1570,6 @@
         "settings": {
           "about_us_enable_area": true,
           "full_width": false,
-          "banner_img": "shopify:\/\/shop_images\/about-intro.jpg",
           "about_img_hide": true,
           "about_title": "We are a gsore focused on delivering Best Organic food and user experiences.",
           "about_content": "Adipiscing lacus ut elementum, nec duis, tempor litora turpis dapibus. Imperdiet cursus odio tortor in elementum. Egestas nunc eleifend feugiat lectus laoreet, vel nunc taciti integer cras. Hac pede dis, praesent nibh ac dui mauris sit. Pellentesque mi, facilisi mauris, elit sociis leo sodales accumsan. Iaculis ac fringilla torquent lorem consectetuer, sociosqu phasellus risus urna aliquam, ornare.\n\n vel nunc taciti integer cras. Hac pede dis, praesent nibh ac dui mauris sit. Pellentesque",
@@ -1591,7 +1584,6 @@
             "type": "chose_area",
             "settings": {
               "feature_icon_type": "font_icon",
-              "feature_icon": "",
               "icon_name": "fa fa-truck",
               "support_titel": "Free Shipping",
               "support_content": "Erat metus sodales eget dolor consectetuer, porta ut purus at et alias, nulla ornare velit amet",
@@ -1603,7 +1595,6 @@
             "type": "chose_area",
             "settings": {
               "feature_icon_type": "font_icon",
-              "feature_icon": "",
               "icon_name": "fa fa-money",
               "support_titel": "100% Money Back Guarantee",
               "support_content": "Erat metus sodales eget dolor consectetuer, porta ut purus at et alias, nulla ornare velit amet",
@@ -1615,7 +1606,6 @@
             "type": "chose_area",
             "settings": {
               "feature_icon_type": "font_icon",
-              "feature_icon": "",
               "icon_name": "fa fa-life-ring",
               "support_titel": "Online Support 24\/7",
               "support_content": "Erat metus sodales eget dolor consectetuer, porta ut purus at et alias, nulla ornare velit amet",
@@ -1626,7 +1616,6 @@
           "1592033597706": {
             "type": "section_background",
             "settings": {
-              "section_bg_image": "",
               "section_bg_color": "#ffffff"
             }
           },
