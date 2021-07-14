@@ -12563,3 +12563,10 @@ a#wheelify-spin-trigger-cc {
     bottom: 12vh !important;
     left: 0vh !important;
 }
+button#mc-submit {
+    padding: 10px;
+    background-color: #ff8646 !important;
+    color: white !important;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
