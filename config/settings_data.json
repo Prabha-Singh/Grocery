@@ -103,7 +103,7 @@
     "newsletter_button_hover_color": "#fff",
     "dont_show_title_color": "#000",
     "close_icon_color": "#ffffff",
-    "breadcrumb_banner_enable": true,
+    "breadcrumb_banner_enable": false,
     "breadcrumb_banner_image": "shopify:\/\/shop_images\/a-selection-of-candles-and-plants-on-wooden-shelves.jpg",
     "breadcrub_page_title_enable": true,
     "breadcrumb_align": "center",
