@@ -57,7 +57,9 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
   {% include 'alireviews_core' %} 
 
 {% include 'booster-common' %}
-</head>
+ 
+{% include 'pagefly-header' %}
+ </head> 
 
-<body id="{{ page_title | handle }}" class="{% if customer %}customer-logged-in {% endif %}template-{{ template.name | handle }}" ><div class="pagefly-container">{{ content_for_layout }}</div></body>
+<body id="{{ page_title | handle }}" class="{% if customer %}customer-logged-in {% endif %}template-{{ template.name | handle }}" ><div class="pagefly-container">{{ content_for_layout }}</div></body>     
 </html>
