@@ -604,7 +604,7 @@
           "truncatewords_count_handle": 35,
           "product_variant_handle": "product_variant_swatch_option",
           "show_variant_image": true,
-          "size_guide_enable": true,
+          "size_guide_enable": false,
           "size_guide": "Size Guide",
           "sizeguidhandle": "",
           "shipping_guide_enable": true,
@@ -620,7 +620,6 @@
           "social_share_title": "Share:",
           "payment_option_enable": true,
           "payment_information": "<p>Guaranteed safe checkout<\/p>",
-          "payment_image": "",
           "payment_icon": "custom_icon"
         }
       },
@@ -960,7 +959,7 @@
           "1567076255682"
         ],
         "settings": {
-          "brand_logo_enable": true,
+          "brand_logo_enable": false,
           "brand_style": "brand_style_2",
           "brand_logo_broder_top_color": "#ffffff",
           "brand_logo_broder_bottom_color": "#ffffff"
