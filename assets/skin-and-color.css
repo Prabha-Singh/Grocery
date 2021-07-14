@@ -1,4 +1,6 @@
-/* Newsletter PopUp */.subscribe_area > h2, .subscribe-content > h2 {
+/* Newsletter PopUp */.newsletter_popup_inner{
+  background: url("//cdn.shopify.com/s/files/1/0564/2220/3585/files/a-selection-of-candles-and-plants-on-wooden-shelves_1024x1024.jpg?v=1618921424") no-repeat scroll center center / cover;
+    }.subscribe_area > h2, .subscribe-content > h2 {
   color: #000000;
 }
 .subscribe_area > p, .subscribe-content > p {
@@ -8,27 +10,27 @@
   color: ;
 }
 .subscribe-form-input {
-  border: 1px solid #ddd;
-  color: #ddd;
+  border: 1px solid #616161;
+  color: #616161;
 }
 .subscribe-form-input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-  color: #ddd !important;
+  color: #616161 !important;
 }
 .subscribe-form-input::-moz-placeholder { /* Firefox 19+ */
-  color: #ddd !important;
+  color: #616161 !important;
 }
 .subscribe-form-input:-ms-input-placeholder { /* IE 10+ */
-  color: #ddd !important;
+  color: #616161 !important;
 }
 .subscribe-form-input:placeholder { /* Firefox 18- */
-  color: #ddd !important;
+  color: #616161 !important;
 }
 .newsletter-btn {
   background: #000000 none repeat scroll 0 0;
   color: #fff;
 }
 .newsletter-btn:hover{
-  background: #666666 none repeat scroll 0 0;
+  background: #323232 none repeat scroll 0 0;
   color: #fff;
 }
 .popup_off{

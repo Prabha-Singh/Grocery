@@ -1,5 +1,9 @@
 /* Newsletter PopUp */
 
+.newsletter_popup_inner{
+  background: url("//cdn.shopify.com/s/files/1/0564/2220/3585/files/a-selection-of-candles-and-plants-on-wooden-shelves_1024x1024.jpg?v=1618921424") no-repeat scroll center center / cover;
+    }
+
 .subscribe_area > h2 {
   color: #000000;
 }
@@ -30,7 +34,7 @@
   color: #fff;
 }
 .newsletter-btn:hover{
-  background: #666666 none repeat scroll 0 0;
+  background: #323232 none repeat scroll 0 0;
   color: #fff;
 }
 .popup_off{
