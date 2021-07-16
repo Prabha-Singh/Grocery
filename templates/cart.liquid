@@ -23,5 +23,22 @@
     $button.parent().find('input').val(newVal);
   });
   */
+  
+   {% if cart.total_price >= 30 %}
+          <button type="submit" name="checkout" class="btn">
+            <span class="icon icon-cart"></span>
+            {{ 'cart.general.checkout' | t }}
+          </button>
+          {% endif %}
+
+          {% if additional_checkout_buttons %}
+            <div class="additional-checkout-buttons">{{ content_for_additional_checkout_buttons }}</div>
+          {% endif %}
+
+          {% if cart.total_price < 3000 %}
+            <div class="minimum-order-notice">
+              <span style="color:#990000">Minimum order is $30</span>
+            </div>
+          {% endif %}
 </script>
 <script src="https://cdn.pagefly.io/static/assets/pf-custom-shopify-cart.min.js" defer></script>
