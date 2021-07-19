@@ -1759,7 +1759,7 @@
           "section_border_color": "#222222",
           "section_title_padding_bottom": 45,
           "section_title_margin_bottom": 20,
-          "newsletter_system": "by_mailchimp",
+          "newsletter_system": "by_shopify_form",
           "newsletter_description": "Subscribe to our newsletter to receive news on update.",
           "newsletter_input_placeholder": "Enter you email",
           "newsbtntext": "Subscribe"
