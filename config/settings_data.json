@@ -182,7 +182,7 @@
     "login_sub_text": "Please login using account detail bellow.",
     "register_sub_text": "Please Register using account detail bellow.",
     "customer_logout_title": "Logout",
-    "custom_page_padding_top": 90,
+    "custom_page_padding_top": 80,
     "custom_page_padding_bottom": 80,
     "custom_page_padding_top_xs": 80,
     "custom_page_padding_bottom_xs": 60,
