@@ -139,7 +139,8 @@
 .theme-default-margin, .shopify-challenge__container {
 /*   padding-top: 90px !important; */
   padding-top: 20px !important;
-  padding-bottom: 90px !important;
+/*   padding-bottom: 90px !important; */
+  padding-bottom: 20px !important;
 }
 @media (max-width: 767px) {
   .theme-default-margin, .shopify-challenge__container{
