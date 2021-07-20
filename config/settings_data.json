@@ -823,7 +823,7 @@
           "phone_number_content": "<a href=\"tel:+919315241279\">+91 93152 41279<\/a>",
           "email_field_enable": true,
           "email_title": "Email Address",
-          "email_content": "info@bamboorian.com",
+          "email_content": "<a href=\"mailto:info@bamboorian.com\">info@bamboorian.com<\/a>",
           "map_enable": true,
           "latitude": "28.54992752096737",
           "languid": "77.25020676136575",
