@@ -820,7 +820,7 @@
           "address_content": "112, Chiranjiv Towers, \nNehru Place,\nNew Delhi - 110019",
           "phone_field_enable": true,
           "phone_number_title": "Phone Number",
-          "phone_number_content": "+91 93152 41279",
+          "phone_number_content": "<a href=\"tel:+919315241279\">+91 93152 41279<\/a>",
           "email_field_enable": true,
           "email_title": "Email Address",
           "email_content": "info@bamboorian.com",
