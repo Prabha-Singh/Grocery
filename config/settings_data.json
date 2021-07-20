@@ -1764,6 +1764,48 @@
           "newsletter_input_placeholder": "Enter you email",
           "newsbtntext": "Subscribe"
         }
+      },
+      "1626773050ba05cf52": {
+        "type": "latest-blog",
+        "blocks": {
+          "1626773050ba05cf52-0": {
+            "type": "section_padding",
+            "settings": {
+              "section_padding_top": 0,
+              "section_padding_bottom": 100,
+              "section_padding_top_md": 0,
+              "section_padding_bottom_md": 80,
+              "section_padding_top_xs": 0,
+              "section_padding_bottom_xs": 60
+            }
+          }
+        },
+        "block_order": [
+          "1626773050ba05cf52-0"
+        ],
+        "settings": {
+          "container_width": "container",
+          "section_title_enable": true,
+          "section_title": "Blogs",
+          "section_title_paragraph": "",
+          "button__text": "More Blogs",
+          "button__url": "shopify:\/\/blogs\/news",
+          "section_title_color": "#323232",
+          "section_desc_color": "#323232",
+          "section_title_margin_bottom": 40,
+          "section_title_padding_bottom": 40,
+          "blog_handle": "",
+          "blog_limit_handle": 6,
+          "blog_by": "By",
+          "blog_dvidr": "\/",
+          "blog_redmor": "Continue Reading",
+          "blog_column": 3,
+          "slider_arrow_enable": false,
+          "rev_arrow_bg_color": "#c5c5c5",
+          "rev_arrow_text_color": "#fff",
+          "rev_arrow_bg_color_on_hover": "#999999",
+          "rev_arrow_text_color_on_hover": "#79a206"
+        }
       }
     },
     "content_for_index": [
@@ -1772,7 +1814,8 @@
       "16260904070a268995",
       "16260858548c47dc62",
       "1626164671452ed1bc",
-      "162616480372c3e558"
+      "162616480372c3e558",
+      "1626773050ba05cf52"
     ]
   },
   "presets": {
