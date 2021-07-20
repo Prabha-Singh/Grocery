@@ -827,8 +827,9 @@
           "map_enable": true,
           "latitude": "28.54992752096737",
           "languid": "77.25020676136575",
-          "icon_animation_enable": false,
-          "google_map_api_key": "AIzaSyCBEypW1XtGLWpikFPcityAok8rhJzzWRw",
+          "map_icon_image": "shopify:\/\/shop_images\/icons8-marker-40.png",
+          "icon_animation_enable": true,
+          "google_map_api_key": "AIzaSyD-SQN-RmSzuFZpg8hiQGxN6-vY5Ge1-OI",
           "map_margin_bottom_enable": false
         }
       },
