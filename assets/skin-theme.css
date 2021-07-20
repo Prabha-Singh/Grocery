@@ -137,7 +137,8 @@
 /* End Typography */
 /* Custom and Customer Page */
 .theme-default-margin, .shopify-challenge__container {
-  padding-top: 90px !important;
+/*   padding-top: 90px !important; */
+  padding-top: 20px !important;
   padding-bottom: 90px !important;
 }
 @media (max-width: 767px) {
