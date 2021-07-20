@@ -1772,7 +1772,7 @@
             "type": "section_padding",
             "settings": {
               "section_padding_top": 0,
-              "section_padding_bottom": 35,
+              "section_padding_bottom": 20,
               "section_padding_top_md": 0,
               "section_padding_bottom_md": 55,
               "section_padding_top_xs": 0,
