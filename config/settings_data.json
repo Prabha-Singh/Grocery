@@ -1658,7 +1658,7 @@
               "slider_bturl": "shopify:\/\/collections\/all",
               "title_color": "#ffffff",
               "title_color2": "#ffffff",
-              "content_color": "#ffffff",
+              "content_color": "#ff8646",
               "slide_caption_btn_bg_color": "#ffffff",
               "slide_caption_btn_color": "#000000",
               "slide_caption_btn_bg_hover_color": "#ffffff",
@@ -1668,8 +1668,8 @@
               "title_2_font_size": 42,
               "fontwight_normal_t2": true,
               "title_2_font_line_height": 43,
-              "title_3_font_size": 24,
-              "title_3_font_line_height": 16
+              "title_3_font_size": 30,
+              "title_3_font_line_height": 30
             }
           },
           "1592372248959-2": {
