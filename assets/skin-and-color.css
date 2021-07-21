@@ -103,7 +103,50 @@
 .top-notification-bar::before {
   background: rgba(0, 0, 0, 0);
 }
-/* Typography *//* End Typography */
+/* Typography */
+
+
+
+@font-face {
+  font-family: "PT Serif";
+  font-weight: 400;
+  font-style: normal;
+  src: url("https://fonts.shopifycdn.com/pt_serif/ptserif_n4.fd0456bc6921cb59cbc84902bc88673986e44f6c.woff2?h1=YmFtYm9vcmlhbi5jb20&hmac=fe4fa320f1fc461ebb7d6129bcd42cbbd7df4c242a412693dfcf42b212fed241") format("woff2"),
+       url("https://fonts.shopifycdn.com/pt_serif/ptserif_n4.17e4b35390e29165ba0345f0fb7b617f96ab09d0.woff?h1=YmFtYm9vcmlhbi5jb20&hmac=03a507aab9a2097654df3b7b4aedcd9704188985fa97bb3e1d5ecd20844b4743") format("woff");
+}
+
+@font-face {
+  font-family: "PT Serif";
+  font-weight: 400;
+  font-style: normal;
+  src: url("https://fonts.shopifycdn.com/pt_serif/ptserif_n4.fd0456bc6921cb59cbc84902bc88673986e44f6c.woff2?h1=YmFtYm9vcmlhbi5jb20&hmac=fe4fa320f1fc461ebb7d6129bcd42cbbd7df4c242a412693dfcf42b212fed241") format("woff2"),
+       url("https://fonts.shopifycdn.com/pt_serif/ptserif_n4.17e4b35390e29165ba0345f0fb7b617f96ab09d0.woff?h1=YmFtYm9vcmlhbi5jb20&hmac=03a507aab9a2097654df3b7b4aedcd9704188985fa97bb3e1d5ecd20844b4743") format("woff");
+}
+
+@font-face {
+  font-family: "PT Serif";
+  font-weight: 400;
+  font-style: normal;
+  src: url("https://fonts.shopifycdn.com/pt_serif/ptserif_n4.fd0456bc6921cb59cbc84902bc88673986e44f6c.woff2?h1=YmFtYm9vcmlhbi5jb20&hmac=fe4fa320f1fc461ebb7d6129bcd42cbbd7df4c242a412693dfcf42b212fed241") format("woff2"),
+       url("https://fonts.shopifycdn.com/pt_serif/ptserif_n4.17e4b35390e29165ba0345f0fb7b617f96ab09d0.woff?h1=YmFtYm9vcmlhbi5jb20&hmac=03a507aab9a2097654df3b7b4aedcd9704188985fa97bb3e1d5ecd20844b4743") format("woff");
+}
+
+
+html, body, input, textarea, button, select{
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+p{
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}/* End Typography */
 /* Custom and Customer Page */
 .theme-default-margin, .shopify-challenge__container {
   padding-top: 90px;
