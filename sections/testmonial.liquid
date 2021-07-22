@@ -16,36 +16,188 @@
       </div>
     </div>
     <div class="testimonial_container">
-      <div class="row">
-        <div class="testimonial_carousel owl-carousel">
-          {% for block in section.blocks %}
-          {% case block.type %}
-          {% when 'testmonial' %}
-          <div class="col-12">
-            <div class="single-testimonial">
-              <div class="testimonial_content">
-                {% if block.settings.tmonial_content !=blank %}
-                <p style = "color: {{ block.settings.tmonial_content_color }}">{{ block.settings.tmonial_content }}</p>
-                {% endif %}
-                <div class="testimonial_text_img">
-                  {% if block.settings.tmonial_image %}
-                  <img   src="{{ block.settings.tmonial_image | img_url: '100x100' }}" alt="{{ block.settings.tmonial_image.alt }}">
-                  {% else %}
-                  <img   src="https://via.placeholder.com/100x100" alt="block.settings.image_test.alt">
-                  {% endif %}
-                </div>
-                {% if block.settings.tmonial_author !=blank %}
-                <div class="testimonial_author">
-                  <p style = "color: {{ block.settings.tmonial_author_color }}">{{ block.settings.tmonial_author }} / <span  style = "color: {{ block.settings.tmonial_author_designation_color }}" >{{ block.settings.tmonial_author_designation }}</span></p>
-                </div>
-                {% endif %}
-              </div>
-            </div>
-          </div>
-          {% endcase %}
-          {% endfor %}
-        </div>
+      <link rel="stylesheet" href="https://data.bamboorian.com/style.css">
+      <main>
+
+  <div class="slider">
+
+    <div class="buttons">
+      <div class="previous"></div>
+      <div class="next"></div>
+    </div>
+
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“ My first time using a bamboo toothbrush and I must say, I enjoy this set. The esthetic of the brush is very appealing and cute. I personally enjoy the most how weightless they are, I didn't expect that.”</blockquote>
+        <p class="author">Vandana Yadav<br>
+          <span>Gurgaon</span>
+        </p>
       </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869129/Bamboorian/WhatsApp_Image_2021-07-20_at_18.53.25_lhra7s.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“From long time looking for option in place of plastic brush because I don't want to use Plastic. Not good for environment and health too.Thanks for bamboorian brand.”</blockquote>
+        <p class="author">Rumana<br>
+          <span>New Delhi</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869129/Bamboorian/WhatsApp_Image_2021-07-20_at_22.58.53_sr5wra.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“ For quite a while searching for an alternative instead of a plastic brush, I would prefer not to utilize Plastic. Not useful for climate and wellbeing too.Thanks for bamboorian brand.”</blockquote>
+        <p class="author">Aseem Majumdar<br>
+          <span>Uttar Pradesh</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869129/Bamboorian/WhatsApp_Image_2021-07-21_at_17.31.49_ko5arc.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“ Happened to buy a pack of these right before I travelled. The packaging was pretty neat and had a lot of information on it about the brush as well as switching to a sustainable lifestyle. The brush has a good feel to it, the bristles are soft and get the job done. ”</blockquote>
+        <p class="author">Sushmita Singh<br>
+          <span>New Delhi</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869129/Bamboorian/WhatsApp_Image_2021-07-20_at_18.53.19_nu7rso.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“ It's definitely a much more eco-friendly option than using regular toothbrushes. Bristles are nice and soft. I am surely gonna keep buying this every time.”</blockquote>
+        <p class="author">Aman Gulati<br>
+          <span>Mumbai</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869128/Bamboorian/WhatsApp_Image_2021-07-21_at_16.53.47_drfsp7.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“ I have started using my first bamboo brush from Bamboorian and absolutely loved it. The bristles, although softer to touch than perhaps a regular toothbrush does a great job of cleaning and do not get bent, damaged or anything of that kind.”</blockquote>
+        <p class="author">Amit Taneja<br>
+          <span>New Delhi</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869128/Bamboorian/WhatsApp_Image_2021-07-20_at_19.18.36_buwiuh.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“ Great for green living beginners. A small switch in your morning routine can go a long way in saving the environment. Tounge cleaning experience is as good as any plastic counterpart.”</blockquote>
+        <p class="author">Varun Ahuja<br>
+          <span>Lucknow</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869128/Bamboorian/WhatsApp_Image_2021-07-21_at_16.29.39_aa8ozj.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“ It's a brave and great initiative, hopefully this will reduce the plastic waste around us. Hope a lot of people get to know the immediate use of the product alongwith the long term benefits of replacing plastics with Natural products. ”</blockquote>
+        <p class="author">Kamal Gulati<br>
+          <span>Uttrakhand</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869128/Bamboorian/WhatsApp_Image_2021-07-21_at_17.09.34_itgmxk.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“The soft bristles and the wodden body gives an eco friendly feel to it and its well placed bristles allows the toothbrush to reach areas in your mouth which a plastic toothbrush won't normally reach. ”</blockquote>
+        <p class="author">Upender Chaudhary<br>
+          <span>Hyderabad</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869128/Bamboorian/WhatsApp_Image_2021-07-21_at_16.35.18_tsc4ji.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“ I like the simplicity of the design and the wooden texture which gives a very traditional look and feel.
+Would definitely recommend it and last but not the least, it's value for money and of course, with no compromise on quality. ”</blockquote>
+        <p class="author">Akash Kumar<br>
+          <span>Haryana</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869128/Bamboorian/WhatsApp_Image_2021-07-21_at_16.34.13_jhpwyt.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“ A good initiative by Bamboorian for launching eco friendly bamboo products it is a small but most important step towards conservation of our ecosystem. Since these products are made from bamboo you dont have to worry about your daliy use activities and contributing towards the growing plastic menace after you discard it, bamboo being a natural material will decompose effortlessly.  ”</blockquote>
+        <p class="author">Gopal<br>
+          <span>Uttar Pradesh</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626945970/Bamboorian/WhatsApp_Image_2021-07-21_at_19.06.14_do05nj.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+    <div class="slide">
+      <div class="testimonial">
+        <blockquote>“In such a modern world its necessary to know your roots and stick to them.Plastic being such a harmful substance is still used but we must remember to use this eco friendly bamboo ear cleaning buds by Bamboorian ”</blockquote>
+        <p class="author">Priyanka<br>
+          <span>West Bengal</span>
+        </p>
+      </div>
+
+      <div class="slider-img">
+        <img src="https://res.cloudinary.com/codewithavi/image/upload/v1626869127/Bamboorian/WhatsApp_Image_2021-07-21_at_16.40.26_la2o0a.jpg" alt="Author Image" style="max-width:300px;max-height:400px;">
+      </div>
+
+    </div>
+
+  </div>
+
+</main>
+<!-- partial -->
+  <script  src="https://data.bamboorian.com/script.js"></script>
+
     </div>
   </div>
 </div>
