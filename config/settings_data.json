@@ -1699,7 +1699,6 @@
       },
       "16260858548c47dc62": {
         "type": "custom-html",
-        "disabled": true,
         "blocks": {
           "16260858548c47dc62-0": {
             "type": "section_padding",
