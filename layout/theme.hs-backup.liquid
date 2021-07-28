@@ -58,7 +58,6 @@
  
 <script>(() => {const installerKey = 'docapp-shipping-auto-install'; const urlParams = new URLSearchParams(window.location.search); if (urlParams.get(installerKey)) {window.sessionStorage.setItem(installerKey, JSON.stringify({integrationId: urlParams.get('docapp-integration-id'), divClass: urlParams.get('docapp-install-class'), check: urlParams.get('docapp-check')}));}})();</script>
 {% render 'minmaxify-head' %}
-{% render 'hs-cart-drawer' %}
 </head> 
 
 <body id="{{ page_title | handle }}" class="{% if customer %}customer-logged-in {% endif %}template-{{ template.name | handle }}" >
@@ -119,6 +118,5 @@
   <div class="index-section--flush powr-popup" id="shopify-section-popup-1626164671452ed1bc"></div>
   <div class="index-section--flush powr-popup" id="9fb4b622_1626165890"></div>
   <div class="index-section--flush powr-popup" id="246266c8_1626160618"></div>
- {% render 'hs-cart-drawer-subscriptions' %}
-</body>     
+ </body>     
 </html>
