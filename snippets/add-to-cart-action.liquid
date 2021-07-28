@@ -11,7 +11,7 @@
     </span>
   </a>
   {% elsif settings.product_cart_type == 'ajax_popup_cart' %} 
-  <a href="/" onclick="{{ func }}; return true;" class="add-to-cart" data-toggle="tooltip" data-original-title="{{ settings.cart_button_title }}">
+  <a href="javascript:void(0);" onclick="{{ func }}; return false;" class="add-to-cart" data-toggle="tooltip" data-original-title="{{ settings.cart_button_title }}">
     <span>
       <span class="cart-title"> <i class="icon-shopping-bag"></i> </span>
     </span>
