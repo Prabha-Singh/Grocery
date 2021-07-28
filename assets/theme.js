@@ -849,7 +849,6 @@
         $('.mini_cart').slideToggle('medium');
       }
     }); 
-    
     /*---canvas menu activation---*/
     $('.canvas_open').on('click', function(){
       $('.offcanvas_menu_wrapper,.off_canvars_overlay').addClass('active')
