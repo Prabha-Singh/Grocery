@@ -9,6 +9,7 @@
       <span class="cart-added"><i class="icon-check-square"></i></span>
       <span class="cart-unavailable"><i class="icon-shopping-bag"></i></span>
     </span>
+    location.reload();
   </a>
   {% elsif settings.product_cart_type == 'ajax_popup_cart' %} 
   <a href="javascript:void(0);" onclick="{{ func }}; return false;" class="add-to-cart" data-toggle="tooltip" data-original-title="{{ settings.cart_button_title }}">
