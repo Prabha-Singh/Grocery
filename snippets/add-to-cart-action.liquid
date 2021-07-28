@@ -4,9 +4,9 @@
   {% if settings.product_cart_type == 'ajax_spin_cart' %}
   <a href="/" onclick="{{ func }}; return false;" class="add-to-cart ajax-spin-cart" data-toggle="tooltip" data-original-title="{{ settings.cart_button_title }}">
     <span>
-      <span class="cart-title"><i class="icon-shopping-bag"></i></span>
+      <span class="cart-title"><a href="/"><i class="icon-shopping-bag"></i></a></span>
       <span class="cart-loading"><i class="fa fa-spinner animated rotateIn infinite"></i></span>
-      <a href="/"><span class="cart-added"><i class="icon-check-square"></i></span></a>
+      <span class="cart-added"><i class="icon-check-square"></i></span>
       <span class="cart-unavailable"><i class="icon-shopping-bag"></i></span>
     </span>
   </a>
