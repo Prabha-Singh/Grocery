@@ -847,9 +847,10 @@
     $('.mini_cart_wrapper > a').on('click', function(event){
       if($(window).width() < 991){
         $('.mini_cart').slideToggle('medium');
+        location.reload();
       }
     }); 
-    location.reload();
+    
     /*---canvas menu activation---*/
     $('.canvas_open').on('click', function(){
       $('.offcanvas_menu_wrapper,.off_canvars_overlay').addClass('active')
