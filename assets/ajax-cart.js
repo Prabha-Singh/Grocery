@@ -229,7 +229,6 @@ var ajaxCart = (function(module, $) {
   loadCart = function () {
     $body.addClass('drawer--is-loading');
     ShopifyAPI.getCart(cartUpdateCallback);
-    location.reload();
   };
 
   updateCountPrice = function (cart) {
