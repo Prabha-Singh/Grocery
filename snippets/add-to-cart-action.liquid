@@ -2,7 +2,7 @@
 <li class="add_to_cart">
   {% if product.available %}
   {% if settings.product_cart_type == 'ajax_spin_cart' %}
-  <a href="/cart/add" onclick="{{ func }}; return false;" class="add-to-cart ajax-spin-cart" data-toggle="tooltip" data-original-title="{{ settings.cart_button_title }}">
+  <a href="javascript:void(0);" onclick="{{ func }}; return false;" class="add-to-cart ajax-spin-cart" data-toggle="tooltip" data-original-title="{{ settings.cart_button_title }}">
     <span>
       <span class="cart-title"><i class="icon-shopping-bag"></i></span>
       <span class="cart-loading"><i class="fa fa-spinner animated rotateIn infinite"></i></span>
@@ -11,7 +11,7 @@
     </span>
   </a>
   {% elsif settings.product_cart_type == 'ajax_popup_cart' %} 
-  <a href="/cart/add" onclick="{{ func }}; return false;" class="add-to-cart" data-toggle="tooltip" data-original-title="{{ settings.cart_button_title }}">
+  <a href="javascript:void(0);" onclick="{{ func }}; return false;" class="add-to-cart" data-toggle="tooltip" data-original-title="{{ settings.cart_button_title }}">
     <span>
       <span class="cart-title"> <i class="icon-shopping-bag"></i> </span>
     </span>
