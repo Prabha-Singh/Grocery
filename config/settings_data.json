@@ -1830,54 +1830,6 @@
           "html_content": "<iframe height=\"800px\" style=\"width: 100%;\" scrolling=\"no\" title=\"\" src=\"http:\/\/data.bamboorian.com\/\" frameborder=\"no\" loading=\"lazy\" allowtransparency=\"true\" allowfullscreen=\"true\">\n<\/iframe>",
           "custom_page": ""
         }
-      },
-      "16275410951ce17460": {
-        "type": "testmonial",
-        "blocks": {
-          "16275410951ce17460-0": {
-            "type": "testmonial",
-            "settings": {
-              "tmonial_content": "Extra peedling, an effective and excellent formulation of fresh fruit-natural pear and vitamin C. Click to Shop Now or Check something else",
-              "tmonial_content_color": "#222",
-              "tmonial_author": "Author Name",
-              "tmonial_author_color": "#222",
-              "tmonial_author_designation": "CEO",
-              "tmonial_author_designation_color": "#222"
-            }
-          },
-          "16275410951ce17460-1": {
-            "type": "testmonial",
-            "settings": {
-              "tmonial_content": "Extra peedling, an effective and excellent formulation of fresh fruit-natural pear and vitamin C. Click to Shop Now or Check something else",
-              "tmonial_content_color": "#222",
-              "tmonial_author": "Author Name",
-              "tmonial_author_color": "#222",
-              "tmonial_author_designation": "CEO",
-              "tmonial_author_designation_color": "#222"
-            }
-          }
-        },
-        "block_order": [
-          "16275410951ce17460-0",
-          "16275410951ce17460-1"
-        ],
-        "settings": {
-          "container_width": "container",
-          "section_title_enable": true,
-          "section_title": "What Our Customers Says ?",
-          "section_title_paragraph": "",
-          "text_align": "center",
-          "section_title_color": "#323232",
-          "section_desc_color": "#323232",
-          "section_border_color": "#222",
-          "section_title_margin_bottom": 40,
-          "section_title_padding_bottom": 40,
-          "slider_arrow_enable": false,
-          "rev_arrow_bg_color": "rgba(0,0,0,0)",
-          "rev_arrow_text_color": "#222",
-          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
-          "rev_arrow_text_color_on_hover": "#79a206"
-        }
       }
     },
     "content_for_index": [
@@ -1888,8 +1840,7 @@
       "1626859360063b6995",
       "1626164671452ed1bc",
       "1626773050ba05cf52",
-      "162616480372c3e558",
-      "16275410951ce17460"
+      "162616480372c3e558"
     ]
   },
   "presets": {
