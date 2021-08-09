@@ -59,7 +59,11 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
 {% include 'booster-common' %}
  
 {% include 'pagefly-header' %}
- </head> 
+ 
+<script>(() => {const installerKey = 'docapp-shipping-auto-install'; const urlParams = new URLSearchParams(window.location.search); if (urlParams.get(installerKey)) {window.sessionStorage.setItem(installerKey, JSON.stringify({integrationId: urlParams.get('docapp-integration-id'), divClass: urlParams.get('docapp-install-class'), check: urlParams.get('docapp-check')}));}})();</script>
+{% render 'minmaxify-head' %}
+{% render 'hs-cart-drawer' %}
+</head> 
 
 <body id="{{ page_title | handle }}" class="{% if customer %}customer-logged-in {% endif %}template-{{ template.name | handle }}" ><div class="pagefly-container">{{ content_for_layout }}</div></body>     
 </html>
