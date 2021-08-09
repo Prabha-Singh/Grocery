@@ -1,5 +1,5 @@
 <!--Our Product Area Start-->
-<div class="our-product popular-products ptb-90" id="section-{{ section.id }}">
+<div class="our-product popular-products Carousel_p ptb-90" id="section-{{ section.id }}">
   <div class="{% if section.settings.container_width == 'container' %} container {% elsif section.settings.container_width == 'fluid' %} container-fluid {% endif %}">
     <!-- Section Title Start -->
     {%- if section.settings.section_title_enable -%}
@@ -15,7 +15,7 @@
       <a href="{{ section.settings.button__url }}" class="title__btn" data-scroll="true"><span class="gsor-button--inner">{{ section.settings.button__text }}</span><i class="fa  fa-angle-right"></i></a>
     </div>
     {%- endif -%}
-    <div class="our-pro-active">
+    <div class="our-pro-active owl-carousel">
       {% assign featured_product = collections[section.settings.featured_product_handle] %}
       {% assign featured_product_limit = section.settings.featured_product_limit_handle %}
       {%- assign product_num = section.settings.featured_product_column -%}
