@@ -1537,7 +1537,7 @@
           "section_border_color": "#222222",
           "section_title_padding_bottom": 25,
           "section_title_margin_bottom": 5,
-          "slider_arrow_enable": false,
+          "slider_arrow_enable": true,
           "rev_arrow_bg_color": "rgba(0,0,0,0)",
           "rev_arrow_text_color": "#222222",
           "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
@@ -1830,41 +1830,6 @@
           "html_content": "<iframe height=\"800px\" style=\"width: 100%;\" scrolling=\"no\" title=\"\" src=\"http:\/\/data.bamboorian.com\/\" frameborder=\"no\" loading=\"lazy\" allowtransparency=\"true\" allowfullscreen=\"true\">\n<\/iframe>",
           "custom_page": ""
         }
-      },
-      "162849794908db46c2": {
-        "type": "product-with-tab",
-        "blocks": {
-          "9481fa74-1aac-4cb9-a636-d240cd78911d": {
-            "type": "product_tab_carousel",
-            "settings": {
-              "carousel_product_collection_handle": "wooden-products",
-              "product_limit_handle": 5
-            }
-          }
-        },
-        "block_order": [
-          "9481fa74-1aac-4cb9-a636-d240cd78911d"
-        ],
-        "settings": {
-          "container_width": "container",
-          "section_title_enable": true,
-          "section_title": "Section Title",
-          "section_title_paragraph": "",
-          "section_title_color": "#222",
-          "section_desc_color": "#222",
-          "section_border_color": "#222",
-          "section_title_padding_bottom": 30,
-          "section_title_margin_bottom": 20,
-          "slider_arrow_enable": false,
-          "rev_arrow_bg_color": "rgba(0,0,0,0)",
-          "rev_arrow_text_color": "#222",
-          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
-          "rev_arrow_text_color_on_hover": "#79a206",
-          "featured_product_column": 2,
-          "product_column_large": 4,
-          "product_column_desktop": 3,
-          "product_column_tablet": 2
-        }
       }
     },
     "content_for_index": [
@@ -1875,8 +1840,7 @@
       "1626859360063b6995",
       "1626164671452ed1bc",
       "1626773050ba05cf52",
-      "162616480372c3e558",
-      "162849794908db46c2"
+      "162616480372c3e558"
     ]
   },
   "presets": {
