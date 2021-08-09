@@ -1830,30 +1830,6 @@
           "html_content": "<iframe height=\"800px\" style=\"width: 100%;\" scrolling=\"no\" title=\"\" src=\"http:\/\/data.bamboorian.com\/\" frameborder=\"no\" loading=\"lazy\" allowtransparency=\"true\" allowfullscreen=\"true\">\n<\/iframe>",
           "custom_page": ""
         }
-      },
-      "1628499338db79787a": {
-        "type": "today-deals-section",
-        "settings": {
-          "container_width": "container",
-          "section_title_enable": true,
-          "section_title": "Section Title",
-          "section_title_paragraph": "",
-          "text_align": "center",
-          "section_title_color": "#222",
-          "section_desc_color": "#222",
-          "section_border_color": "#222",
-          "section_title_padding_bottom": 30,
-          "section_title_margin_bottom": 20,
-          "slider_arrow_enable": true,
-          "rev_arrow_bg_color": "rgba(0,0,0,0)",
-          "rev_arrow_text_color": "#222",
-          "rev_arrow_bg_color_on_hover": "rgba(0,0,0,0)",
-          "rev_arrow_text_color_on_hover": "#79a206",
-          "featured_product_handle": "wooden-products",
-          "featured_product_limit_handle": "12",
-          "featured_product_column": 1,
-          "product_column": 5
-        }
       }
     },
     "content_for_index": [
@@ -1864,8 +1840,7 @@
       "1626859360063b6995",
       "1626164671452ed1bc",
       "1626773050ba05cf52",
-      "162616480372c3e558",
-      "1628499338db79787a"
+      "162616480372c3e558"
     ]
   },
   "presets": {
